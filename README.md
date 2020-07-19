@@ -1,5 +1,6 @@
-NYC-Parking-Tickets-An-Exploratory-Analysis
-Objectives of the Case Study
+### NYC-Parking-Tickets-An-Exploratory-Analysis
+#### Objectives of the Case Study
+
 Primarily, this case study is meant as a deep dive into the usage of Spark. As you saw while working with Spark, its syntax behaves differently from a regular Python syntax. One of the major objectives of this case study is to gain familiarity with how analysis works in PySpark as opposed to base Python.
 
 Learning the basic idea behind using functions in PySpark can help in using other libraries like SparkR. If you are in a company where R is a primary language, you can easily pick up SparkR syntax and use Spark’s processing power.
